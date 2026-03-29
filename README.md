@@ -59,12 +59,12 @@ cd ai-virtual-painter
 ```
 
 ###2. Create virtual environment (optional)
-```
+```bash
 python -m venv .venv
 .venv\Scripts\activate   # Windows
 ```
 
 ###3. Install dependencies
-```
+```bash
 pip install opencv-python mediapipe==0.10.11
 ```
