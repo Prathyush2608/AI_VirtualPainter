@@ -50,3 +50,9 @@ A real-time gesture-based drawing application that allows users to draw on the s
 
 ---
 
+## ⚙️ Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/ai-virtual-painter.git
+cd ai-virtual-painter
