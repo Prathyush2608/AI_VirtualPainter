@@ -41,3 +41,12 @@ A real-time gesture-based drawing application that allows users to draw on the s
 ---
 
 ## 📁 Project Structure
+
+**AI Virtual Painter**
+│── **HandTrackingMod.py**
+│── **AI_VirtualPainter.py**
+│── **README.md**
+│── **.gitignore**
+
+---
+
