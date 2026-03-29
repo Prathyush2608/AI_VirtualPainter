@@ -54,5 +54,17 @@ A real-time gesture-based drawing application that allows users to draw on the s
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ai-virtual-painter.git
+git clone https://github.com/prathyush2608/ai-virtual-painter.git
 cd ai-virtual-painter
+```
+
+###2. Create virtual environment (optional)
+```
+python -m venv .venv
+.venv\Scripts\activate   # Windows
+```
+
+###3. Install dependencies
+```
+pip install opencv-python mediapipe==0.10.11
+```
